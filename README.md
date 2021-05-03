@@ -1,3 +1,3 @@
 # Object-Detection-Tensorflow-Win10
 
-Object detection with mediapipe and openCV 
+Body Language detector with mediapipe and openCV. Baseline model, needs to take care overfitting of the model. 
